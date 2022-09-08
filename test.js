@@ -4,6 +4,7 @@ const test = () => {
   return (
     <div>
       new file
+      new line added again
     </div>
   )
 }
